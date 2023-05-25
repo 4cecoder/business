@@ -9,7 +9,7 @@
 | [markets.md](markets.md)           | Target markets analysis |
 | [professionality.md](professionality.md) | Professionalism tips |
 | [prompts.md](prompts.md)           | GPT prompts guide |
-| [random.md](random.md)             | Random content |
+| [lessons.md](lessons.md)             | Random content |
 | [solve.md](solve.md)               | Problem-solving techniques |
 | [time.md](time.md)                 | Time management strategies |
 
