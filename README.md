@@ -26,6 +26,8 @@ This guide will help you create a blog where you can collect emails and send dai
 
 Remember to always provide valuable content and respect your subscribers' privacy.
 
+---
+
 # How to Build a Sellable Product with a Brand
 
 This guide will walk you through the steps of building a sellable product with a strong brand surrounding it. By following these steps, you can create a product that can be rebought or subscribed to, attracting loyal customers. 
