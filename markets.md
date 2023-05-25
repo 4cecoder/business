@@ -31,6 +31,7 @@ To effectively **reach your target market**, consider the following key factors:
 
 Now, let's explore some successful companies and their approaches to targeting their markets.
 
+---
 
 ## Facebook 📘
 
