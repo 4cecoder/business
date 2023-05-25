@@ -1,4 +1,4 @@
-# how business?
+# How Business?
 
 # Start a Blog for Email Collection
 
