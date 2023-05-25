@@ -59,7 +59,7 @@ This guide will walk you through the steps of building a sellable product with a
 Remember, building a sellable product with a brand takes time and effort. Stay committed to delivering value, building customer relationships, and evolving your brand as your business grows.
 
 
-🏢 Company Target Markets 🎯
+# 🏢 Company Target Markets 🎯
 
 ## Facebook 📘
 - **Target Market:** Initially, Facebook focused on college students with a .edu email address.
