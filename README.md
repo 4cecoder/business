@@ -83,7 +83,7 @@ Remember, building a sellable product with a brand takes time and effort. Stay c
 - **Target Market:** Athletes and individuals leading active lifestyles.
 - **Additional Target:** Fashion-forward consumers through collaborations with designers and celebrities.
 
-💡 Key Points:
+# 💡 Key Points:
 - Each company identifies a specific group of consumers to reach.
 - They tailor their products, services, and advertising to meet the unique needs and interests of these consumers​1​.
 
