@@ -1,6 +1,6 @@
 # GPT Prompt Cleanup Guide
 
-This guide aims to provide you with general information and advice, presented in a clear and concise manner. It has been compiled to serve as a comprehensive resource, eliminating personal stories and individual experiences. Below, you will find the refined content in one simple README markdown document that can be easily copied and pasted.
+This guide aims to provide you with general information and advice, presented in a clear and concise manner. It has been compiled to serve as a comprehensive resource for your ai promoting scenarios.
 
 ## Guide to Improving GPT Prompts
 
