@@ -13,11 +13,11 @@ When creating GPT prompts, it is important to focus on extracting general inform
 | 3.   | **Create a Markdown Document:** Present your refined content in a beautiful markdown document for easy readability.                            |
 
 ### More details of these steps
-1. **Summarize Your Content:** Extract the main points from your personal experiences or stories and condense them into concise summaries. Remove any specific details that might distract from the general information.
+1. **Summarize Your Content:** Remove any specific details that might distract from the general information.
 
-2. **Focus on General Advice:** Instead of sharing your own experiences, provide general advice that can be applicable to a wider audience. Frame your prompts in a way that offers guidance rather than personal accounts.
+2. **Focus on General Advice:**
 
-3. **Create a Markdown Document:** Present your refined content in a beautiful markdown document for easy readability. This format allows users to copy and paste the information effortlessly.
+3. **Create a Markdown Document:** This format allows users to copy and paste the information effortlessly.
 
 ---
 
