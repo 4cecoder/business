@@ -12,4 +12,4 @@
 | [lessons.md](lessons.md)             | Random content |
 | [solve.md](solve.md)               | Problem-solving techniques |
 | [time.md](time.md)                 | Time management strategies |
-
+| [Strategy](strategy.md) | ♟️ |
