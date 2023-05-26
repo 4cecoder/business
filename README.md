@@ -13,3 +13,4 @@
 | [Solve](solve.md)               | Problem-solving techniques |
 | [Time](time.md)                 | Time management strategies |
 | [Strategy](strategy.md) | ♟️ |
+| [Battle](battle.md) | ⚔️ |
