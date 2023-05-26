@@ -2,7 +2,7 @@
 
 This guide aims to provide you with general information and advice, presented in a clear and concise manner. It has been compiled to serve as a comprehensive resource for your ai promoting scenarios.
 
-## Guide to Improving GPT Prompts
+## Improving GPT Prompts
 
 When creating GPT prompts, it is important to focus on extracting general information and advice while presenting it as a guide rather than personal anecdotes. Follow these steps to ensure your prompts are optimized for clarity:
 
