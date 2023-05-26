@@ -8,8 +8,8 @@
 | [Brands](brand.md)               | Branding information |
 | [Markets](markets.md)           | Target markets analysis |
 | [Professionality](professionality.md) | Professionalism tips |
-| [prompts.md](prompts.md)           | GPT prompts guide |
-| [lessons.md](lessons.md)             | Random content |
+| [Prompts](prompts.md)           | GPT prompts guide |
+| [Lessons](lessons.md)             | Random content |
 | [Solve](solve.md)               | Problem-solving techniques |
 | [Time](time.md)                 | Time management strategies |
 | [Strategy](strategy.md) | ♟️ |
