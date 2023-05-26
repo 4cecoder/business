@@ -1,6 +1,5 @@
-# The Art of Pure Strategy: Unleashing Your Tactical Brilliance 🎯♟️
+# The Art of Pure Strategy: Battles 🤺🥷⚔️
 
-Welcome to the mission briefing. We're embarking on a journey into the realm of pure strategy. Prepare to unlock your tactical brilliance and ascend to the pinnacle of strategic mastery.
 
 ## ⚔️ Lesson 4: Lessons from Historic Battles
 
